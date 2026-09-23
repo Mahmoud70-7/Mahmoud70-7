@@ -1,6 +1,6 @@
 # Mahmoud-Khamis
 
-💫 **About Me:**
+**About Me:**
 
 I am a Data Science student and aspiring Data Analyst passionate about transforming data into meaningful insights. My expertise lies in Machine Learning, Natural Language Processing (NLP), and building Generative AI (RAG) applications.
 
@@ -8,7 +8,7 @@ I have hands-on experience with Python, SQL, and Power BI, and I enjoy building 
 
 ---
 
-🚀 **Interests**
+**Interests**
 * Data Science & Machine Learning
 * Natural Language Processing (NLP) & LLMs
 * Retrieval-Augmented Generation (RAG) Systems
